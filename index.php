@@ -3,3 +3,4 @@
 echo "mohamed";
 
 echo "Hello from Al Fathi....";
+echo "Hello team.... Our course at 8 PM today ....";
